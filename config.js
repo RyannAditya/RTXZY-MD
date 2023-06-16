@@ -2,24 +2,24 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['62823504965328', '62823504965328']  
+global.mods = ['62823504965328'] 
+global.prems = ['62823504965328']
+global.nameowner = 'ItsFerr'
+global.numberowner = '62823504965328' 
+global.mail = 'ferrjb146@gmail.com' 
+global.dana = '-'
+global.pulsa = '-'
+global.gopay = '-'
+global.namebot = 'ASTRO-MD'
+global.gc = 'https://chat.whatsapp.com/GWkhzPyj5NY518EyGC1snb'
+global.web = 'https://github.com/frdy19'
+global.instagram = '-'
+global.wm = '© AstroMD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
-global.wm4 = '© BotWa'
+global.wm2 = '⫹⫺ AstroMD'
+global.wm3 = '© ItsFerr'
+global.wm4 = '© AstroMD'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
@@ -27,16 +27,16 @@ global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
-global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
+global.alpiskey = 'ee650fb5' //daftar sendiri jika key habis https://alpis.eu.org
 
-global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
-global.lann = 'YOUR_APIKEY_HERE' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
+global.btc = 'dypxSTBO' //Daftar terlebih dahulu https://api.botcahx.live
+global.lann = 'I4fynlPv' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
 global.APIs = { 
   tio: 'https://api.botcahx.live',
   alpis: 'https://alpis.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOUR_APIKEY_HERE' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'dypxSTBO' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
